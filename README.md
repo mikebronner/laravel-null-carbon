@@ -1,2 +1,1 @@
-# laravel-null-carbon-
-Carbon null-class.
+# Null-Carbon For Laravel
