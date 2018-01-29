@@ -1,9 +1,13 @@
 {
-    "name": "laravel/laravel",
-    "description": "The Laravel Framework.",
-    "keywords": ["framework", "laravel"],
+    "name": "genealabs/laravel-null-carbon",
+    "description": "A Laravel Carbon null-class.",
     "license": "MIT",
-    "type": "project",
+    "authors": [
+        {
+            "name": "GeneaLabs, LLC",
+            "email": "hello@genealabs.com"
+        }
+    ],
     "require": {
         "laravel/support": "5.5.*",
         "php": ">=7.0.0"
