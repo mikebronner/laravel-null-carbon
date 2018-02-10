@@ -6,6 +6,10 @@ method returns both `null` and some other data-type, so the solution is to
 return a null-class. The `NullCarbon` class is a null-class implementation of
 Laravel's Carbon class.
 
+## Prerequisites
+- PHP >= 7.1.3
+- Laravel >= 5.5
+
 ## Installation
 ```
 composer require genealabs/laravel-null-carbon
