@@ -17,7 +17,7 @@
         "filp/whoops": "~2.0",
         "fzaninotto/faker": "~1.4",
         "genealabs/laravel-whoops-atom": "*",
-        "mockery/mockery": "0.9.*",
+        "mockery/mockery": "1.2.*",
         "phpunit/phpunit": "~6.0",
         "symfony/thanks" : "*"
     },
