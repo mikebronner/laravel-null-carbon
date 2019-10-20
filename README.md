@@ -1,5 +1,7 @@
 # Null-Carbon For Laravel
 
+![NUll-Carbon for Laravel masthead image.](https://repository-images.githubusercontent.com/119314805/d34ce800-f340-11e9-9e00-ca362ecb00f7)
+
 ## Goal
 Methods should always return only one data-type. This principle is broken if a
 method returns both `null` and some other data-type, so the solution is to
