@@ -12,7 +12,7 @@ class NullCarbon extends Carbon
     /**
      * @SuppressWarnings(PHPMD.UnusedFormalParameter)
      */
-    public function format($format)
+    public function format(string $format)
     {
         return '';
     }
