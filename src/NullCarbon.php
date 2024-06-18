@@ -12,12 +12,12 @@ class NullCarbon extends Carbon
     /**
      * @SuppressWarnings(PHPMD.UnusedFormalParameter)
      */
-    public function format(string $format)
+    public function format(string $format): string
     {
         return '';
     }
 
-    public function jsonSerialize()
+    public function jsonSerialize(): mixed
     {
         return json_encode(null);
     }
