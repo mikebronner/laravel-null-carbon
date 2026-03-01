@@ -9,10 +9,13 @@
         }
     ],
     "require": {
-        "illuminate/support": "^11.0"
+        "php": "^8.2",
+        "illuminate/support": "^10.0|^11.0|^12.0|^13.0"
     },
     "require-dev": {
-        "symfony/thanks" : "^1.2"
+        "orchestra/testbench": "^8.0|^9.0|^10.0|^11.0",
+        "pestphp/pest": "^2.0|^3.0",
+        "symfony/thanks": "^1.2"
     },
     "autoload": {
         "psr-4": {
@@ -22,6 +25,12 @@
     "autoload-dev": {
         "psr-4": {
             "GeneaLabs\\LaravelNullCarbon\\Tests\\": "tests/"
+        }
+    },
+    "config": {
+        "allow-plugins": {
+            "pestphp/pest-plugin": true,
+            "symfony/thanks": true
         }
     },
     "minimum-stability": "stable"
