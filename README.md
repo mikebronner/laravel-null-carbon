@@ -8,16 +8,8 @@ method returns both `null` and some other data-type, so the solution is to
 return a null-class. The `NullCarbon` class is a null-class implementation of
 Laravel's Carbon class.
 
-## Version Support
-
-| Laravel | PHP        | Package |
-|---------|------------|---------|
-| 11.x    | 8.2+       | 3.x     |
-| 12.x    | 8.2+       | 3.x     |
-| 13.x    | 8.3+       | 3.x     |
-
 ## Prerequisites
-- PHP >= 8.2
+- PHP 8.2, 8.3, 8.4, 8.5
 - Laravel >= 11.0
 
 ## Installation

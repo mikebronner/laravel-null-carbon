@@ -27,11 +27,11 @@
             "GeneaLabs\\LaravelNullCarbon\\Tests\\": "tests/"
         }
     },
+    "minimum-stability": "stable",
     "config": {
         "allow-plugins": {
             "pestphp/pest-plugin": true,
             "symfony/thanks": true
         }
-    },
-    "minimum-stability": "stable"
+    }
 }
