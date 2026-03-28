@@ -9,8 +9,8 @@ return a null-class. The `NullCarbon` class is a null-class implementation of
 Laravel's Carbon class.
 
 ## Prerequisites
-- PHP >= 7.1.3
-- Laravel >= 5.5
+- PHP 8.2, 8.3, 8.4, 8.5
+- Laravel >= 11.0
 
 ## Installation
 ```
