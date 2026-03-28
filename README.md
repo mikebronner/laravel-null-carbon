@@ -12,14 +12,13 @@ Laravel's Carbon class.
 
 | Laravel | PHP        | Package |
 |---------|------------|---------|
-| 10.x    | 8.1+       | 3.x     |
 | 11.x    | 8.2+       | 3.x     |
 | 12.x    | 8.2+       | 3.x     |
 | 13.x    | 8.3+       | 3.x     |
 
 ## Prerequisites
 - PHP >= 8.2
-- Laravel >= 10.0
+- Laravel >= 11.0
 
 ## Installation
 ```
